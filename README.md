@@ -22,7 +22,6 @@ This Python project is designed to scrape articles from a website, parse their c
    mongorestore --db articles_db /path/to/downloaded/files
 
 
-
 ## Features
 
 - Fetch and parse sitemaps.
@@ -92,7 +91,6 @@ This setup allows for efficient data management, balancing the need for real-tim
 
 ### Application Overview
 ![Application Screenshot](screenshots/screenshot1.png)
-
 *The screenshot above shows the application interface with key features highlighted.*
 
 
@@ -231,18 +229,3 @@ Click on the image below to download the video:
 Click on the image below to download the video:
 
 [![Watch the video](https://img.youtube.com/vi/_FGsKGiMJUI/0.jpg)](https://youtu.be/_FGsKGiMJUI)
-#   C - r e m o t e - C o n t r o l 
- 
- #   C - r e m o t e - C o n t r o l 
- 
- #   C - r e m o t e - C o n t r o l 
- 
- #   C - r e m o t e - C o n t r o l 
- 
- #   C - r e m o t e - C o n t r o l 
- 
- #   U n i v e r s a l _ r e m o t e _ c o n t r o l 
- 
- #   U n i v e r s a l _ r e m o t e _ c o n t r o l 
- 
- 
